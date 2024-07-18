@@ -226,3 +226,52 @@ _(scroll right on table to see all 5 columns)_
 | YouTube Music                  | [music.creasource.app](https://music.creasource.app)                                                                                                                   | [GitHub](https://github.com/tgambet/musicsource)                                                                                           | Angular                                                                        | ![GitHub Repo stars](https://flat.badgen.net/github/stars/tgambet/musicsource)                                                                                                                   |
 | Zapier                         | [n8n.io](https://n8n.io/)                                                                                                                                              | [GitHub](https://github.com/n8n-io/n8n)                                                                                                    | TypeScript, Vue, Docker                                                        | ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)                                                                                                                           |
 | Zapier                         | [vimeo.com (gif)](https://vimeo.com/61976251)       
+
+
+🔗 7000+ Courses Access : 
+https://lnkd.in/g36wvRfU
+
+<>. Google Data Analytics:
+🪢 https://lnkd.in/gYNF9VJM
+
+🔗 Foundations of Management
+https://lnkd.in/gpnbDd3b
+
+🪢 Project Management Principles and Practice.
+https://lnkd.in/gpanqxie
+
+🔗 Construction Management
+https://lnkd.in/g8eHxSvh
+
+🪢 Engineering Project Management
+https://lnkd.in/gEDr3NT7
+
+🔗 Management Consulting
+https://lnkd.in/gMCdk9jc
+
+🪢 Supply Chain Management
+https://lnkd.in/g4gcwJZV
+
+🔗 Human Resource Management: HR for People Managers
+https://lnkd.in/gSFZMc2B
+
+🪢 Agile Project Management
+https://lnkd.in/gpJxMzQY
+
+🔗 Scrum Master Certificate
+https://lnkd.in/g5bff4qD
+
+🪢 Excel Skills for Data Analytics and Visualization
+https://lnkd.in/gri3Z6db
+
+🔗 Risk Management
+https://lnkd.in/gBDz_qpF
+
+🪢 Software Product Management
+https://lnkd.in/gWFUKuY4
+
+🔗 UCI Project Management Professional Certificate
+https://lnkd.in/gjmpjHWX
+
+🪢 AI Product Management
+https://lnkd.in/gDBez6y6
